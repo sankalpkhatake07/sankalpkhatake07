@@ -1,289 +1,310 @@
-<!-- ================= HERO ================= -->
+<!-- ========================= PROFILE HEADER ========================= -->
 
-<h1 align="center">🚀 Sankalp Khatake</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer | Machine Learning | Generative AI | IoT Systems
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sankalp%20Khatake&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20IoT%20Systems&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;ML+%2B+IoT+Innovator;Computer+Vision+Developer;Generative+AI+Explorer;Hackathon+Winner+🏆&center=true&width=650&height=50">
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sankalp-khatake-3517322a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Innovator;Computer+Vision+Developer;Generative+AI+Explorer;IoT+%2B+Cloud+Builder;Drone+Technology+Enthusiast;Hackathon+Winner+🏆"/>
 
-  <a href="mailto:sankalpkhatake07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+<br><br>
 
-  <a href="https://github.com/sankalpkhatake07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sankalp-khatake-3517322a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sankalpkhatake07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sankalpkhatake07">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sankalpkhatake07&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+# 🧠 About Me
 
-## 🧠 About Me
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U0bW5jcnN5YjY1dG4ybGFmMnN6eDJkbnl1c3N5dWl2N3A2eWJ6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
-
-💡 AI/ML Engineer passionate about building **real-world intelligent systems** using:
+💡 Passionate **AI/ML Engineer** focused on building **real-world intelligent systems** integrating:
 
 - 🤖 Artificial Intelligence & Deep Learning
 - 👁️ Computer Vision & YOLO
-- ☁️ Cloud + IoT Integrated Platforms
+- ☁️ Cloud + IoT Platforms
 - 🚁 Drone & Smart Agriculture Technologies
 - 📊 Predictive Analytics & Automation
 - 🧠 Generative AI, RAG & AI Agents
 
-🏆 8+ Hackathon & Technothon Wins  
-📜 Govt. of India Copyright Holder  
+🏆 **8+ Hackathon & Technothon Wins**  
+📜 **Govt. of India Copyright Holder**  
 🚀 Building scalable AI systems with real deployment impact
 
----
-
-## 🌱 I'm Currently Working On
-
-- 🚁 Drone-Based Intelligent ET & Smart Irrigation Systems
-- 🤖 YOLOv8 Real-Time Detection Models
-- 🧠 LLM, RAG & AI Agent Applications
-- ☁️ AI + IoT Cloud Integrated Platforms
-- 📡 Edge AI & Smart Sensor Automation
+<br><br>
 
 ---
 
-## 🤝 I'm Looking to Collaborate On
+# 🌱 Currently Working On
 
-- AI/ML & Computer Vision Projects
-- Drone & Robotics Innovations
-- IoT + Cloud Platforms
-- Open Source AI Tools
-- Smart Agriculture Technologies
+<div align="center">
 
----
+| 🚀 Projects | 🧠 AI Systems | ☁️ Platforms |
+|---|---|---|
+| Drone-Based Intelligent ET Systems | LLM & RAG Applications | AI + IoT Cloud Platforms |
+| Smart Irrigation Ecosystems | YOLOv8 Real-Time Detection | Edge AI Automation |
+| UAV-Based Smart Monitoring | AI Agents | Smart Sensor Networks |
 
-## 🛠️ I'm Looking for Help With
-
-- MLOps & Scalable AI Deployment
-- Edge AI Optimization
-- AI Research & Publications
-- Distributed AI Systems
+</div>
 
 ---
 
-## 📚 I'm Currently Learning
+# 🤝 Looking To Collaborate On
 
-- Generative AI & AI Agents
-- LangChain & LangGraph
-- Advanced Deep Learning
-- Cloud-Native AI Deployment
-- Embedded AI & Edge Computing
+<div align="center">
 
----
+🧠 AI/ML Projects • 👁️ Computer Vision • 🚁 Robotics & Drones • ☁️ Cloud Platforms • 🌱 Smart Agriculture • 📡 IoT Systems
 
-## 💬 Ask Me About
-
-- Python & Machine Learning
-- YOLO & OpenCV
-- AI + IoT Integration
-- Firebase & AWS
-- ESP8266 / ESP32
-- Hackathons & AI Innovation
+</div>
 
 ---
 
-## ⚡ Fun Fact
+# 🛠️ Looking For Help With
 
-I enjoy transforming real-world problems into intelligent systems —
-from smart farming 🚜 to assistive AI technologies 👁️ using AI, IoT & drones 🚁.
-
----
-
-<!-- ================= IMPACT ================= -->
-
-## 📊 Impact Snapshot
-
-- 🏆 8+ Hackathon & Technothon Wins
-- 📉 ~30% Water Reduction using AI Irrigation
-- ⚙️ ~95% Fault Detection Accuracy
-- ❤️ ~92% Health Prediction Accuracy
-- 🧠 Mentored 100+ Students in AI & IoT
+- ⚡ Advanced MLOps & AI Deployment
+- 📡 Edge AI Optimization
+- 📄 AI Research Publications
+- ☁️ Distributed AI Systems
+- 🚀 High-Performance AI Infrastructure
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+# 📚 Currently Learning
 
-## 🔥 Flagship Projects
+<div align="center">
 
-### 🌱 AgriAura – AI Smart Irrigation System
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,kubernetes,aws,linux"/>
 
-🔗 https://github.com/sankalpkhatake07/Water_irrigation-.git
+</div>
 
-- AI + IoT irrigation system using NDVI + Weather API + Sensors
+<br>
+
+- 🧠 Generative AI & AI Agents
+- 🔗 LangChain & LangGraph
+- ☁️ Cloud-Native AI Deployment
+- ⚙️ Embedded AI & Edge Computing
+- 📡 Distributed AI Systems
+
+---
+
+# 💬 Ask Me About
+
+<div align="center">
+
+| AI/ML | Vision | IoT | Cloud |
+|---|---|---|---|
+| Python | YOLO | ESP32 | AWS |
+| Deep Learning | OpenCV | ESP8266 | Firebase |
+| NLP | Detection Systems | Arduino | Docker |
+| Predictive Modeling | Vision Analytics | Raspberry Pi | CI/CD |
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+🚀 *I love transforming real-world problems into intelligent systems — from smart farming 🌱 to assistive AI 👁️ using AI, IoT & drones 🚁.*
+
+</div>
+
+---
+
+# 📊 Impact Snapshot
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalpkhatake07&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🏆 Achievement | 📈 Impact |
+|---|---|
+| Hackathon Wins | 8+ |
+| Water Reduction | ~30% |
+| Fault Detection Accuracy | ~95% |
+| Health Prediction Accuracy | ~92% |
+| Students Mentored | 100+ |
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+## 🌱 AgriAura — AI Smart Irrigation System
+
+🔗 **Repository**  
+https://github.com/sankalpkhatake07/Water_irrigation-.git
+
+✨ Features:
+- AI + IoT irrigation using NDVI + Weather APIs
 - Reduced water usage by ~30%
 - Improved irrigation precision by ~35%
 - Production-level smart agriculture ecosystem
 
 ---
 
-### ⚙️ HELIOSENSE – Machine Failure Prediction
+## ⚙️ HELIOSENSE — Machine Failure Prediction
 
-🔗 https://github.com/sankalpkhatake07/Heliosense.git
+🔗 **Repository**  
+https://github.com/sankalpkhatake07/Heliosense.git
 
-- Multi-sensor IoT anomaly detection system
-- Achieved ~95% fault detection accuracy
+✨ Features:
+- Multi-sensor IoT anomaly detection
+- ~95% fault detection accuracy
 - Reduced industrial downtime by ~28%
 - Industrial AI automation platform
 
 ---
 
-### 👁️ VisionGuard – AI for Blind Navigation
+## 👁️ VisionGuard — AI for Blind Navigation
 
-🔗 https://github.com/sankalpkhatake07/VisionGuard_project.git
+🔗 **Repository**  
+https://github.com/sankalpkhatake07/VisionGuard_project.git
 
+✨ Features:
 - YOLO-based real-time obstacle detection
 - ~90% detection accuracy
 - Improved navigation safety by ~40%
-- Real-world assistive AI system
+- Assistive AI navigation system
 
 ---
 
-### ❤️ Smart Heart Attack Prediction System
+## ❤️ Smart Heart Attack Prediction System
 
-🔗 https://github.com/sankalpkhatake07/Heartbeat-IOT.git
+🔗 **Repository**  
+https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
-- IoT + ML real-time health monitoring
-- Achieved ~92% prediction accuracy
-- Live dashboard + automated alert system
+✨ Features:
+- IoT + ML health monitoring
+- ~92% prediction accuracy
+- Live dashboard + alerts system
 - AI-powered healthcare monitoring
 
 ---
 
-<!-- ================= SKILLS ================= -->
+# 🛠️ Tech Arsenal
 
-## 🛠️ Tech Arsenal
+<div align="center">
 
-### ⚡ AI / ML
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`Predictive Modeling`
-`Generative AI`
-`NLP`
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql"/>
 
-### 🧰 Frameworks & Libraries
-`TensorFlow`
-`PyTorch`
-`Scikit-learn`
-`OpenCV`
-`Pandas`
-`NumPy`
-`LangChain`
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
 ### ☁️ Cloud & DevOps
-`AWS`
-`Firebase`
-`Docker`
-`GitHub Actions`
-`CI/CD`
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,githubactions"/>
 
-### 💻 Programming
-`Python`
-`C++`
-`Java`
-`SQL`
+### 🌐 Development
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi"/>
 
 ### 🔧 Hardware & IoT
-`ESP32`
-`ESP8266`
-`Arduino`
-`Raspberry Pi`
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+</div>
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
+# 💼 Experience
 
-## 💼 Experience
+## 🚀 AI & Machine Learning Intern — UptoSkills
 
-### 🚀 AI & Machine Learning Intern – UptoSkills
 - Built LLM, RAG & surveillance systems using LangChain, YOLO & OpenCV
 - Improved real-time processing efficiency by ~40%
-- Worked on anomaly monitoring & intelligent automation systems
+- Worked on anomaly monitoring & automation systems
 
-### 🌐 GDG Core Member
+---
+
+## 🌐 GDG Core Member
+
 - Organized AI & Cloud workshops
 - Conducted sessions on AI workflows & development tools
 
-### 🚁 Bharat Forge Innovation Lab
+---
+
+## 🚁 Bharat Forge Innovation Lab
+
 - Worked on NDVI analytics & embedded AI systems
-- Developed smart agriculture & UAV-based intelligent solutions
+- Developed smart agriculture & UAV-based solutions
 
 ---
 
-<!-- ================= STATS ================= -->
+# 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpkhatake07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sankalpkhatake07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://streak-stats.demolab.com/?user=sankalpkhatake07&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpkhatake07&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpkhatake07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpkhatake07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<!-- ================= TROPHIES ================= -->
+# 🏆 Achievements & Trophies
 
-## 🏆 Achievements
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sankalpkhatake07&theme=tokyonight&no-frame=true"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=sankalpkhatake07&theme=algolia&no-frame=true&row=1&column=7"/>
 
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpkhatake07&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-<!-- ================= QUOTE ================= -->
+# 📈 Contribution Graph
 
-## ⚡ Mindset
-
-💡 *"I don’t just build models — I build intelligent systems that create real-world impact."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpkhatake07&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
 ---
 
-<!-- ================= CAREER ================= -->
+# ⚡ Mindset
 
-## 🎯 Career Vision
+<div align="center">
 
-To become a top-tier AI Engineer building scalable, production-ready intelligent systems integrating:
+### 💡 “I don’t just build models — I build intelligent systems that create real-world impact.”
 
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- 📡 IoT & Embedded Systems
-- 🚁 Drone & Automation Technologies
+</div>
 
 ---
 
-<!-- ================= VISITORS ================= -->
+# 🎯 Career Vision
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankalpkhatake07&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
 
-<!-- Crafted with AI + Innovation 🚀 -->
+To become a top-tier **AI Engineer** building scalable, production-ready intelligent systems integrating:
+
+🤖 AI • ☁️ Cloud • 📡 IoT • 🚁 Drone Technologies
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+</div>
