@@ -1,12 +1,12 @@
-<!-- ========================= PROFILE HEADER ========================= -->
+<!-- =========================  HERO SECTION  ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Sankalp%20Khatake&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20IoT%20Systems&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Sankalp%20Khatake&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20Generative%20AI%20|%20IoT%20Systems&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Innovator;Computer+Vision+Developer;Generative+AI+Explorer;IoT+%2B+Cloud+Builder;Drone+Technology+Enthusiast;Hackathon+Winner+🏆"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Innovator+%F0%9F%9A%80;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Generative+AI+Explorer+%F0%9F%A7%A0;IoT+%2B+Cloud+Builder+%E2%98%81%EF%B8%8F;Drone+Technology+Enthusiast+%F0%9F%9A%81;Hackathon+Winner+%F0%9F%8F%86"/>
 
 <br><br>
 
@@ -22,66 +22,70 @@
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://github.com/sankalpkhatake07?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-success?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=sankalpkhatake07&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
+<!-- =========================  ABOUT  ========================= -->
+
 # 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💡 Passionate **AI/ML Engineer** focused on building **real-world intelligent systems** integrating:
+💡 Passionate **AI/ML Engineer** focused on designing and deploying **scalable intelligent systems** integrating:
 
 - 🤖 Artificial Intelligence & Deep Learning
-- 👁️ Computer Vision & YOLO
-- ☁️ Cloud + IoT Platforms
+- 👁️ Computer Vision & YOLO-based Detection
+- ☁️ Cloud + IoT Architectures
 - 🚁 Drone & Smart Agriculture Technologies
 - 📊 Predictive Analytics & Automation
 - 🧠 Generative AI, RAG & AI Agents
 
 🏆 **8+ Hackathon & Technothon Wins**  
 📜 **Govt. of India Copyright Holder**  
-🚀 Building scalable AI systems with real deployment impact
+🚀 Building AI systems with real-world deployment impact
 
 <br><br>
 
 ---
 
+<!-- =========================  CURRENTLY WORKING  ========================= -->
+
 # 🌱 Currently Working On
 
 <div align="center">
 
-| 🚀 Projects | 🧠 AI Systems | ☁️ Platforms |
+| 🚀 Systems | 🤖 AI Models | ☁️ Platforms |
 |---|---|---|
-| Drone-Based Intelligent ET Systems | LLM & RAG Applications | AI + IoT Cloud Platforms |
-| Smart Irrigation Ecosystems | YOLOv8 Real-Time Detection | Edge AI Automation |
+| Drone-Based Intelligent ET Systems | YOLOv8 Detection Models | AI + IoT Cloud Platforms |
+| Smart Irrigation Ecosystems | LLM + RAG Applications | Edge AI Automation |
 | UAV-Based Smart Monitoring | AI Agents | Smart Sensor Networks |
 
 </div>
 
 ---
 
+<!-- =========================  COLLAB  ========================= -->
+
 # 🤝 Looking To Collaborate On
 
 <div align="center">
 
-🧠 AI/ML Projects • 👁️ Computer Vision • 🚁 Robotics & Drones • ☁️ Cloud Platforms • 🌱 Smart Agriculture • 📡 IoT Systems
+🧠 AI/ML • 👁️ Computer Vision • 🚁 Robotics • ☁️ Cloud Platforms • 🌱 Smart Agriculture • 📡 IoT Systems
 
 </div>
 
 ---
 
-# 🛠️ Looking For Help With
-
-- ⚡ Advanced MLOps & AI Deployment
-- 📡 Edge AI Optimization
-- 📄 AI Research Publications
-- ☁️ Distributed AI Systems
-- 🚀 High-Performance AI Infrastructure
-
----
+<!-- =========================  LEARNING  ========================= -->
 
 # 📚 Currently Learning
 
@@ -93,19 +97,21 @@
 
 <br>
 
-- 🧠 Generative AI & AI Agents
-- 🔗 LangChain & LangGraph
-- ☁️ Cloud-Native AI Deployment
-- ⚙️ Embedded AI & Edge Computing
-- 📡 Distributed AI Systems
+- 🧠 Generative AI & AI Agents  
+- 🔗 LangChain & LangGraph  
+- ☁️ Cloud-Native AI Deployment  
+- ⚙️ Embedded AI & Edge Computing  
+- 📡 Distributed AI Systems  
 
 ---
+
+<!-- =========================  ASK ME ABOUT  ========================= -->
 
 # 💬 Ask Me About
 
 <div align="center">
 
-| AI/ML | Vision | IoT | Cloud |
+| AI/ML | Vision AI | IoT | Cloud |
 |---|---|---|---|
 | Python | YOLO | ESP32 | AWS |
 | Deep Learning | OpenCV | ESP8266 | Firebase |
@@ -116,6 +122,8 @@
 
 ---
 
+<!-- =========================  FUN FACT  ========================= -->
+
 # ⚡ Fun Fact
 
 <div align="center">
@@ -125,6 +133,8 @@
 </div>
 
 ---
+
+<!-- =========================  IMPACT  ========================= -->
 
 # 📊 Impact Snapshot
 
@@ -150,12 +160,18 @@
 
 ---
 
+<!-- =========================  PROJECTS  ========================= -->
+
 # 🔥 Featured Projects
 
-## 🌱 AgriAura — AI Smart Irrigation System
+<table>
+<tr>
+<td width="50%">
 
-🔗 **Repository**  
-https://github.com/sankalpkhatake07/Water_irrigation-.git
+## 🌱 AgriAura  
+### AI Smart Irrigation Ecosystem
+
+🔗 [Repository](https://github.com/sankalpkhatake07/Water_irrigation-.git)
 
 ✨ Features:
 - AI + IoT irrigation using NDVI + Weather APIs
@@ -163,69 +179,93 @@ https://github.com/sankalpkhatake07/Water_irrigation-.git
 - Improved irrigation precision by ~35%
 - Production-level smart agriculture ecosystem
 
----
+</td>
 
-## ⚙️ HELIOSENSE — Machine Failure Prediction
+<td width="50%">
 
-🔗 **Repository**  
-https://github.com/sankalpkhatake07/Heliosense.git
+## ⚙️ HELIOSENSE  
+### Machine Failure Prediction
+
+🔗 [Repository](https://github.com/sankalpkhatake07/Heliosense.git)
 
 ✨ Features:
 - Multi-sensor IoT anomaly detection
 - ~95% fault detection accuracy
-- Reduced industrial downtime by ~28%
+- Reduced downtime by ~28%
 - Industrial AI automation platform
 
----
+</td>
+</tr>
 
-## 👁️ VisionGuard — AI for Blind Navigation
+<tr>
+<td width="50%">
 
-🔗 **Repository**  
-https://github.com/sankalpkhatake07/VisionGuard_project.git
+## 👁️ VisionGuard  
+### AI for Blind Navigation
+
+🔗 [Repository](https://github.com/sankalpkhatake07/VisionGuard_project.git)
 
 ✨ Features:
-- YOLO-based real-time obstacle detection
+- YOLO-based obstacle detection
 - ~90% detection accuracy
-- Improved navigation safety by ~40%
+- Improved navigation safety
 - Assistive AI navigation system
 
----
+</td>
 
-## ❤️ Smart Heart Attack Prediction System
+<td width="50%">
 
-🔗 **Repository**  
-https://github.com/sankalpkhatake07/Heartbeat-IOT.git
+## ❤️ Heart Attack Prediction  
+### AI Healthcare Monitoring
+
+🔗 [Repository](https://github.com/sankalpkhatake07/Heartbeat-IOT.git)
 
 ✨ Features:
 - IoT + ML health monitoring
 - ~92% prediction accuracy
-- Live dashboard + alerts system
+- Live dashboard + alerts
 - AI-powered healthcare monitoring
 
+</td>
+</tr>
+</table>
+
 ---
+
+<!-- =========================  TECH STACK  ========================= -->
 
 # 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+## 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql"/>
 
-### 🤖 AI / ML
+<br><br>
+
+## 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,githubactions"/>
+<br><br>
 
-### 🌐 Development
+## ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,githubactions,linux"/>
+
+<br><br>
+
+## 🌐 Development
 <img src="https://skillicons.dev/icons?i=react,flask,fastapi"/>
 
-### 🔧 Hardware & IoT
+<br><br>
+
+## 🔧 Hardware & IoT
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 </div>
 
 ---
+
+<!-- ========================= EXPERIENCE ========================= -->
 
 # 💼 Experience
 
@@ -233,7 +273,7 @@ https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
 - Built LLM, RAG & surveillance systems using LangChain, YOLO & OpenCV
 - Improved real-time processing efficiency by ~40%
-- Worked on anomaly monitoring & automation systems
+- Developed anomaly monitoring & automation systems
 
 ---
 
@@ -251,6 +291,8 @@ https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
 ---
 
+<!-- ========================= STATS ========================= -->
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -265,6 +307,8 @@ https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
 ---
 
+<!-- ========================= TROPHIES ========================= -->
+
 # 🏆 Achievements & Trophies
 
 <div align="center">
@@ -275,11 +319,15 @@ https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
 ---
 
+<!-- ========================= ACTIVITY ========================= -->
+
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpkhatake07&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
 ---
+
+<!-- ========================= MINDSET ========================= -->
 
 # ⚡ Mindset
 
@@ -291,20 +339,24 @@ https://github.com/sankalpkhatake07/Heartbeat-IOT.git
 
 ---
 
+<!-- ========================= CAREER ========================= -->
+
 # 🎯 Career Vision
 
 <div align="center">
 
-To become a top-tier **AI Engineer** building scalable, production-ready intelligent systems integrating:
+To become a top-tier **AI Engineer** building scalable intelligent systems integrating:
 
-🤖 AI • ☁️ Cloud • 📡 IoT • 🚁 Drone Technologies
+🤖 Artificial Intelligence • ☁️ Cloud • 📡 IoT • 🚁 Drone Technologies
 
 </div>
 
 ---
 
+<!-- ========================= FOOTER ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
